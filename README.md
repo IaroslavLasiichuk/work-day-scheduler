@@ -22,4 +22,4 @@ Note
 This is just a sample readme file for the given User Story, actual implementation and details might vary.
 
 ## Testing
-You can also refer to source code to test it Source code.
+You can also refer to source code to test it [Source code](https://github.com/IaroslavLasiichuk/password-generator/work-day-scheduler).
