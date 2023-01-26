@@ -10,6 +10,10 @@ Saved events persist even when the page is refreshed.
 
 ## Mock-up
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/img/05-third-party-apis-homework-demo.gif)
+> - HTML
+> -  CSS
+> - JavaScript
+> - JQuery
 
 ## Usage
 Open the Daily Planner in your browser.
