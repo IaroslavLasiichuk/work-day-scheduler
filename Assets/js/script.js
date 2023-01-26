@@ -3,9 +3,11 @@ $(function () {
   // This code uses the id in the containing time-block as a key to save the user input in local storage
   $('.btn').on("click", function () {
     let idOfparent = $(this).parent();
+    let message = $('.appoitment');
     idOfparent.each(function (i) {
       let id = $(this).prop('id');
       localStorage.setItem(id, $(idOfparent).children('textarea').val());
+      $(message).text('Added to localStorege✅');
     });
   });
 
