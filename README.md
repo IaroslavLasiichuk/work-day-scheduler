@@ -13,7 +13,7 @@ Saved events persist even when the page is refreshed.
 
 ## Build with
 > - HTML
-> -  CSS
+> - CSS
 > - JavaScript
 > - JQuery
 
