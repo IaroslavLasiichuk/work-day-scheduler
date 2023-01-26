@@ -7,7 +7,7 @@ $(function () {
     idOfparent.each(function (i) {
       let id = $(this).prop('id');
       localStorage.setItem(id, $(idOfparent).children('textarea').val());
-      $(message).text('Added to localStorege✅');
+      $(message).text('Added to localStorage✅');
     });
   });
 
