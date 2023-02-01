@@ -9,7 +9,7 @@ Users can click into a timeblock to enter an event, and click the save button to
 Saved events persist even when the page is refreshed.
 
 ## Mock-up
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/img/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/img/work_day_scheduler_screenshot.png)
 
 ## Build with
 > - HTML
