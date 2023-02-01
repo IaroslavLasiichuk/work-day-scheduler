@@ -15,7 +15,6 @@ $(function () {
     const timerInterval = setInterval(() => {
       timerCount--;
       let message = $('.appoitment');
-      console.log(timerCount);
       $(message).text('Added to localStorage✅');
       if (timerCount === 0) {
         clearInterval(timerInterval);
